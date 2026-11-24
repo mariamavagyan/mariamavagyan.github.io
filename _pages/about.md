@@ -16,5 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a 2nd year PhD student at the Department of Electrical Engineering at Columbia University working with Dr. John Wright. I hold a BS degree in Mathematics and BS in Electrical Engineering (2018, Trinity College CT), as well as MS in Electrical Engineering (2020, Columbia University).
-
+I am a 5th year PhD Candidate in Electrical Engineering at Columbia University, advised by Professor John Wright. I had the honor of collaboraborating with Professor Szabolcs Márka, Dr. Zsuzsa Marka, and Professor Shweta Mahajan. My research is on geometry-aware machine learning algorithms with application on gravitational waves and various types of images.

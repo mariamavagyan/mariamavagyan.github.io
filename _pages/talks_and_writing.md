@@ -8,7 +8,7 @@ nav_order: 5
 horizontal: false
 ---
 
-I spoke at the [Gender and Intersectionality in Post Soviet Armenia Conference](https://www.international.ucla.edu/armenia/event/15197) hosted by the [Promise Armenian Institute at UCLA](https://www.international.ucla.edu/armenia/welcome) and the [Zorian Institute](https://zoryaninstitute.org/).
+<!-- I spoke at the [Gender and Intersectionality in Post Soviet Armenia Conference](https://www.international.ucla.edu/armenia/event/15197) hosted by the [Promise Armenian Institute at UCLA](https://www.international.ucla.edu/armenia/welcome) and the [Zorian Institute](https://zoryaninstitute.org/).
 <br>
 <br>
 <img src="/assets/img/talks_and_writing/zorian.webp" alt="" height="200px"/>
@@ -28,5 +28,5 @@ I was a panelist at [The Gendered Face of The Nagorno Karabakh Conflict webinar]
 <img src="/assets/img/talks_and_writing/conflict.webp" alt="" height="200px"/>
 <br>
 <br>
-
+ -->
 
