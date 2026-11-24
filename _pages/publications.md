@@ -63,7 +63,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 
 <div class="row mb-4" markdown="1">
 <div class="col-sm-3">
-<img src="/assets/img/publications/local-averaging.png" class="img-fluid rounded" alt="" onerror="this.style.display='none'">
+<img src="/assets/img/publications/local-averaging.png" class="img-fluid rounded d-block mx-auto" style="width: 70%;" alt="" onerror="this.style.display='none'">
 </div>
 <div class="col-sm-9" markdown="1">
 [Local Averaging Accurately Distills Manifold Structure From Noisy Data](https://arxiv.org/pdf/2506.18761)
