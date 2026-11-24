@@ -11,7 +11,7 @@ nav_order: 2
 ---
 
 
-- [CHARM: Training-Free Head-Adaptive Memory for Consistent Video Generation](https://openreview.net/pdf?id=XB7emS6RJc)
+- CHARM: Training-Free Head-Adaptive Memory for Consistent Video Generation #(https://openreview.net/pdf?id=XB7emS6RJc)
 <br>Shweta Mahajan, Apratim Bhattacharyya, **Mariam Avagyan**
 <br>Computer Vision and Pattern Recognition(CVPR) 2027. Under review.
 
@@ -19,7 +19,15 @@ nav_order: 2
 
 - [Geometry-Aware Robust Denoising via Hierarchical Manifold Traversal](https://openreview.net/pdf?id=t26i2Tk32y)
 <br>**Mariam Avagyan**, Shiyu Wang, Davit Shadunts, Szabolcs Marka, Zsuzsanna Marka, Shweta Mahajan, John Wright
-<br> International Conference on Learning Representations (ICLR) 2027. Under review.
+<br>International Conference on Learning Representations (ICLR) 2027. Under review.
+
+- Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferable Representations.
+<br>**Mariam Avagyan**, Maitreyee Bose, Guido Jajamovich, Khamir Mehta.
+<br>CPT: Pharmacometrics and Systems Pharmacology (CPT:PSP). 2026. In Preparation.
+
+- [Latent Express Traversal for Manifold Denoising](https://openreview.net/pdf?id=jR54770TuR)
+<br>Shiyu Wang, **Mariam Avagyan**, Shreya Kadambi, Risheek Garrepalli, Fatih Porikli, Szabolcs Marka, Zsuzsanna Marka, Shweta Mahajan, John Wright.
+<br>Conference on Neural Information Processing Systems (NeurIPS) Workshop on Bridging Optimal Transport, Learning and Structured Data: Toward Geometric Distributional Learning. 2026. Accepted.
 
 
 
