@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a 5th year PhD Candidate in Electrical Engineering at Columbia University, advised by Professor John Wright. I had the honor of collaboraborating with Professor Szabolcs Márka, Dr. Zsuzsa Marka, and Professor Shweta Mahajan. My research is on geometry-aware machine learning algorithms with application on gravitational waves and various types of images.
+I am a 5th year PhD Candidate in Electrical Engineering at Columbia University, advised by Professor John Wright. I had the honor of collaborating with Professor Szabolcs Márka, Dr. Zsuzsa Marka, and Professor Shweta Mahajan. My research is on geometry-aware machine learning algorithms with application on gravitational waves and various types of images.

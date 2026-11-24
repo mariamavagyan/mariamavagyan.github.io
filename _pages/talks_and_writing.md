@@ -3,7 +3,7 @@ layout: page
 title: Talks and Writing
 permalink: /talks_and_writing/
 description:
-nav: true
+nav: false
 nav_order: 5
 horizontal: false
 ---
