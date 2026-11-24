@@ -30,7 +30,7 @@ CHARM: Training-Free Head-Adaptive Memory for Consistent Video Generation
 
 <div class="row mb-4" markdown="1">
 <div class="col-sm-3">
-<img src="/assets/img/publications/hierarchical-manifold-traversal.png" class="img-fluid rounded" alt="" onerror="this.style.display='none'">
+<img src="/assets/img/publications/hierarchical-manifold-traversal.jpg" class="img-fluid rounded" alt="" onerror="this.style.display='none'">
 </div>
 <div class="col-sm-9" markdown="1">
 [Geometry-Aware Robust Denoising via Hierarchical Manifold Traversal](https://openreview.net/pdf?id=t26i2Tk32y)
@@ -74,7 +74,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 
 <div class="row mb-4" markdown="1">
 <div class="col-sm-3">
-<img src="/assets/img/publications/tunneling.png" class="img-fluid rounded" alt="" onerror="this.style.display='none'">
+<img src="/assets/img/publications/tunneling.jpg" class="img-fluid rounded" alt="" onerror="this.style.display='none'">
 </div>
 <div class="col-sm-9" markdown="1">
 [Fast, Accurate Manifold Denoising by Tunneling Riemannian Optimization](https://openreview.net/pdf?id=jbafwTkVUn)
