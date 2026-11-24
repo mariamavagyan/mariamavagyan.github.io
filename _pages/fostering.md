@@ -3,8 +3,8 @@ layout: page
 title: Fostering
 permalink: /fostering/
 description:
-nav: true
-home_section: true
+nav: false
+home_section: false
 home_id: fostering
 redirect: /#fostering
 nav_order: 6
