@@ -40,6 +40,15 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Home page sections: any page with `home_section: true`, ordered by nav_order -->
+    {% assign home_sections = site.pages | where: 'home_section', true | sort: 'nav_order' %}
+    {% for s in home_sections %}
+      <section class="mt-5">
+        <h2 id="{{ s.home_id }}">{{ s.title }}</h2>
+        {{ s.content | markdownify }}
+      </section>
+    {% endfor %}
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>

@@ -4,6 +4,9 @@ permalink: /contact/
 title: Contact
 description:
 nav: true
+home_section: true
+home_id: contact
+redirect: /#contact
 nav_order: 10
 ---
 

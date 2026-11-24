@@ -4,6 +4,9 @@ title: Fostering
 permalink: /fostering/
 description:
 nav: true
+home_section: true
+home_id: fostering
+redirect: /#fostering
 nav_order: 6
 horizontal: false
 ---

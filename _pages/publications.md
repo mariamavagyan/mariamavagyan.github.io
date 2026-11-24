@@ -4,6 +4,9 @@ permalink: /publications/
 title: Publications
 description: 
 nav: true
+home_section: true
+home_id: publications
+redirect: /#publications
 nav_order: 2
 ---
 

@@ -4,6 +4,9 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
+home_section: true
+home_id: teaching
+redirect: /#teaching
 nav_order: 4
 ---
 
