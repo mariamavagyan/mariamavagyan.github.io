@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**I am on the job market for ML scientist, ML engineer, and research scientist roles starting spring/summer 2027.**
+**I am on the job market for AI Research Scientist and Machine Learning engineer roles starting spring/summer 2027.**
 
 I am a 5th year PhD Candidate in Electrical Engineering at Columbia University, advised by [Professor John Wright](https://www.engineering.columbia.edu/faculty-staff/directory/john-wright). My research develops geometry-aware machine learning algorithms, with applications to [gravitational waves](https://spaceplace.nasa.gov/gravitational-waves/en/), as well as to natural and medical images. I'm particularly interested in provable, reliable methods for noisy scientific data, from manifold denoising for diffusion models to white-box networks for detecting weak signals.
 
