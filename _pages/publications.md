@@ -74,7 +74,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 
 <div class="row mb-4" markdown="1">
 <div class="col-sm-3">
-<img src="/assets/img/publications/tunneling.jpg" class="img-fluid rounded d-block mx-auto" style="width: 80%;" alt="" onerror="this.style.display='none'">
+<img src="/assets/img/publications/tunneling.png" class="img-fluid rounded d-block mx-auto" style="width: 80%;" alt="" onerror="this.style.display='none'">
 </div>
 <div class="col-sm-9" markdown="1">
 [Fast, Accurate Manifold Denoising by Tunneling Riemannian Optimization](https://openreview.net/pdf?id=jbafwTkVUn)
