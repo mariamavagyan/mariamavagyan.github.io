@@ -24,7 +24,7 @@ nav_order: 2
 CHARM: Training-Free Head-Adaptive Memory for Consistent Video Generation
 <!-- link (hidden while under review): https://openreview.net/pdf?id=XB7emS6RJc -->
 <br>Shweta Mahajan, Apratim Bhattacharyya, **Mariam Avagyan**
-<br>Computer Vision and Pattern Recognition (CVPR) 2027. Under review.
+<br>*Computer Vision and Pattern Recognition (CVPR)*, 2027. Under review.
 </div>
 </div>
 
@@ -35,7 +35,7 @@ CHARM: Training-Free Head-Adaptive Memory for Consistent Video Generation
 <div class="col-sm-9" markdown="1">
 [Geometry-Aware Robust Denoising via Hierarchical Manifold Traversal](https://openreview.net/pdf?id=t26i2Tk32y)
 <br>**Mariam Avagyan**, Shiyu Wang, Davit Shadunts, Szabolcs Marka, Zsuzsanna Marka, Shweta Mahajan, John Wright
-<br>International Conference on Learning Representations (ICLR) 2027. Under review.
+<br>*International Conference on Learning Representations (ICLR)*, 2027. Under review.
 </div>
 </div>
 
@@ -46,7 +46,7 @@ CHARM: Training-Free Head-Adaptive Memory for Consistent Video Generation
 <div class="col-sm-9" markdown="1">
 Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferable Representations.
 <br>**Mariam Avagyan**, Maitreyee Bose, Guido Jajamovich, Khamir Mehta.
-<br>CPT: Pharmacometrics and Systems Pharmacology (CPT:PSP). 2026. In Preparation.
+<br>*CPT: Pharmacometrics and Systems Pharmacology (CPT:PSP)*. 2026. In Preparation.
 </div>
 </div>
 
@@ -57,7 +57,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 <div class="col-sm-9" markdown="1">
 [Latent Express Traversal for Manifold Denoising](https://openreview.net/pdf?id=jR54770TuR)
 <br>Shiyu Wang, **Mariam Avagyan**, Shreya Kadambi, Risheek Garrepalli, Fatih Porikli, Szabolcs Marka, Zsuzsanna Marka, Shweta Mahajan, John Wright.
-<br>Conference on Neural Information Processing Systems (NeurIPS) Workshop on Bridging Optimal Transport, Learning and Structured Data: Toward Geometric Distributional Learning. 2026. Accepted.
+<br>*Conference on Neural Information Processing Systems (NeurIPS) Workshop on Bridging Optimal Transport, Learning and Structured Data: Toward Geometric Distributional Learning*. 2026. Accepted.
 </div>
 </div>
 
@@ -68,7 +68,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 <div class="col-sm-9" markdown="1">
 [Local Averaging Accurately Distills Manifold Structure From Noisy Data](https://arxiv.org/pdf/2506.18761)
 <br>Yihan Shen, Shiyu Wang, Arnaud Lamy, **Mariam Avagyan**, John Wright
-<br>arXiv preprint arXiv:2506.18761. June 2025.
+<br>*arXiv preprint* arXiv:2506.18761. June 2025.
 </div>
 </div>
 
@@ -79,7 +79,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 <div class="col-sm-9" markdown="1">
 [Fast, Accurate Manifold Denoising by Tunneling Riemannian Optimization](https://openreview.net/pdf?id=jbafwTkVUn)
 <br>Shiyu Wang, **Mariam Avagyan**, Yihan Shen, Arnaud Lamy, Tingran Wang, Szabolcs Marka, Zsuzsanna Marka, John Wright.
-<br>International Conference on Machine Learning (ICML), PMLR 267:62297–62344. July 2025.
+<br>*International Conference on Machine Learning (ICML)*, PMLR 267:62297–62344. July 2025.
 </div>
 </div>
 
@@ -90,7 +90,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 <div class="col-sm-9" markdown="1">
 [Invariant Attention: Provable Clustering Under Transformations](https://openreview.net/pdf?id=SirD4KYNRr)
 <br>Shree Rohith Pulipaka, **Mariam Avagyan**, Jackei Yang, John Wright
-<br>OpenReview.net, 2024.
+<br>*OpenReview.net*, 2024.
 </div>
 </div>
 
@@ -101,7 +101,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 <div class="col-sm-9" markdown="1">
 [Generalized approach to matched filtering using neural networks](https://arxiv.org/abs/2104.03961)
 <br>Jingkai Yan, **Mariam Avagyan**, Robert E Colgan, Doğa Veske, Imre Bartos, John Wright, Zsuzsa Márka, Szabolcs Márka
-<br>Physical Review D 105 (4), 043006. February 2022.
+<br>*Physical Review D* 105 (4), 043006. February 2022.
 </div>
 </div>
 
@@ -112,7 +112,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 <div class="col-sm-9" markdown="1">
 [VR-Mediated Teleoperation With Glove-Like Interfaces](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2018/52019/V002T02A095/276375)
 <br>Kun Chen, Prawesh Dahal, **Mariam Avagyan**, Kevin Huang
-<br>Proceedings of the ASME 2018 International Mechanical Engineering Congress and Exposition. Volume 2: Advanced Manufacturing. November 2018.
+<br>*Proceedings of the ASME 2018 International Mechanical Engineering Congress and Exposition*. Volume 2: Advanced Manufacturing. November 2018.
 </div>
 </div>
 
@@ -123,7 +123,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 <div class="col-sm-9" markdown="1">
 [Evolving network structure of academic institutions](https://link.springer.com/article/10.1007/s41109-016-0020-1)
 <br>Shufan Wang, **Mariam Avagyan**, Per Sebastian Skardal
-<br>Applied Network Science 2, 1 (2017). https://doi.org/10.1007/s41109-016-0020-1
+<br>*Applied Network Science* 2, 1 (2017). https://doi.org/10.1007/s41109-016-0020-1
 </div>
 </div>
 
@@ -134,7 +134,7 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 <div class="col-sm-9" markdown="1">
 [Characterizing chaotic behavior of REM sleep EEG using Lyapunov exponent](https://ieeexplore.ieee.org/abstract/document/8302215)
 <br>Prawesh Dahal, **Mariam Avagyan**, Per Sebastian Skardal, Harry J Blaise, Taikang Ning
-<br>10th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), October 2017.
+<br>*10th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, October 2017.
 </div>
 </div>
 
@@ -145,6 +145,6 @@ Dose-Window Formulation for Cytokine Release Syndrome Prediction with Transferab
 <div class="col-sm-9" markdown="1">
 [Developmental differences of dimension complexity of hippocampal EEG during REM sleep](https://ieeexplore.ieee.org/abstract/document/7591324)
 <br>Taikang Ning, J Harry Blaise, **Mariam Avagyan**, Prawesh Dahal
-<br>38th International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), August 2016.
+<br>*38th International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, August 2016.
 </div>
 </div>
